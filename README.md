@@ -2,7 +2,7 @@
 
 <h1 align="center">I'm ProPhi</h1>
 <h3 align="center">Coding_bots && machine_learning.js</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"?
+<!-- <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"? -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prophi-py&label=Profile%20views&color=0e75b6&style=flat" alt="prophi-py" /> </p>
 
